@@ -1,0 +1,21 @@
+{
+  "name": "bag-0-loot-jwaddell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lootbag.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Waddell/bag-0-loot-jwaddell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Waddell/bag-0-loot-jwaddell/issues"
+  },
+  "homepage": "https://github.com/J-Waddell/bag-0-loot-jwaddell#readme"
+}
